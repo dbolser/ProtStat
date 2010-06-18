@@ -1,0 +1,523 @@
+
+See 'metadata' -> 'country'
+
+
+
+COUNTRY CODES	COUNTRY	START YEAR	END YEAR
+2	Afghanistan		
+3	Albania		
+4	Algeria		
+5	American Samoa		
+6	Andorra		
+7	Angola		
+258	Anguilla		
+8	Antigua and Barbuda		
+9	Argentina		
+1	Armenia	1992	
+22	Aruba		
+10	Australia		
+11	Austria		
+52	Azerbaijan	1992	
+12	Bahamas		
+13	Bahrain		
+16	Bangladesh		
+14	Barbados		
+57	Belarus	1992	
+255	Belgium	2000	
+15	Belgium-Luxembourg		1999
+23	Belize		
+53	Benin		
+17	Bermuda		
+18	Bhutan		
+19	Bolivia		
+80	Bosnia and Herzegovina	1992	
+20	Botswana		
+21	Brazil		
+239	British Virgin Islands		
+26	Brunei Darussalam		
+27	Bulgaria		
+233	Burkina Faso		
+29	Burundi		
+115	Cambodia		
+32	Cameroon		
+33	Canada		
+35	Cape Verde		
+36	Cayman Islands		
+37	Central African Republic		
+39	Chad		
+259	Channel Islands		
+40	Chile		
+351	China		
+44	Colombia		
+45	Comoros		
+46	Congo		
+250	Congo, Democratic Republic of 		
+47	Cook Islands		
+48	Costa Rica		
+107	Côte d'Ivoire		
+98	Croatia	1992	
+49	Cuba		
+50	Cyprus		
+167	Czech Republic	1993	
+51	Czechoslovakia		1992
+54	Denmark		
+72	Djibouti		
+55	Dominica		
+56	Dominican Republic		
+58	Ecuador		
+59	Egypt		
+60	El Salvador		
+61	Equatorial Guinea		
+178	Eritrea	1993	
+63	Estonia	1992	
+238	Ethiopia	1993	
+62	Ethiopia PDR		1992
+65	Falkland Islands		
+64	Faroe Islands		
+66	Fiji		
+67	Finland		
+68	France		
+69	French Guiana		
+70	French Polynesia		
+74	Gabon		
+75	Gambia		
+76	Gaza Strip		1995
+73	Georgia	1992	
+79	Germany		
+81	Ghana		
+82	Gibraltar		
+84	Greece		
+85	Greenland		
+86	Grenada		
+87	Guadeloupe		
+88	Guam		
+89	Guatemala		
+90	Guinea		
+175	Guinea-Bissau		
+91	Guyana		
+93	Haiti		
+94	Holy See		
+95	Honduras		
+97	Hungary		
+99	Iceland		
+100	India		
+101	Indonesia		
+102	Iran, Islamic Republic of		
+103	Iraq		
+104	Ireland		
+264	Isle of Man		
+105	Israel		
+106	Italy		
+109	Jamaica		
+110	Japan		
+112	Jordan		
+108	Kazakhstan	1992	
+114	Kenya		
+83	Kiribati		
+116	Korea, Democratic People's Republic of 		
+117	Korea, Republic of		
+118	Kuwait		
+113	Kyrgyzstan	1992	
+120	Lao People's Democratic Republic		
+119	Latvia	1992	
+121	Lebanon		
+122	Lesotho		
+123	Liberia		
+124	Libyan Arab Jamahiriya		
+125	Liechtenstein		
+126	Lithuania	1992	
+256	Luxembourg	2000	
+129	Madagascar		
+130	Malawi		
+131	Malaysia		
+132	Maldives		
+133	Mali		
+134	Malta		
+127	Marshall Islands	1991	
+135	Martinique		
+136	Mauritania		
+137	Mauritius		
+270	Mayotte		
+138	Mexico		
+145	Micronesia, Federated States of	1991	
+146	Moldova	1992	
+140	Monaco		
+141	Mongolia		
+273	Montenegro	2006	
+142	Montserrat		
+143	Morocco		
+144	Mozambique		
+28	Myanmar		
+147	Namibia		
+148	Nauru		
+149	Nepal		
+150	Netherlands		
+151	Netherlands Antilles		
+153	New Caledonia		
+156	New Zealand		
+157	Nicaragua		
+158	Niger		
+159	Nigeria		
+160	Niue		
+161	Norfolk Island		
+163	Northern Mariana Islands	1991	
+162	Norway		
+299	Occupied Palestinian Territory 	1996	
+221	Oman		
+164	Pacific Is		1990
+165	Pakistan		
+180	Palau	1991	
+166	Panama		
+168	Papua New Guinea		
+169	Paraguay		
+170	Peru		
+171	Philippines		
+172	Pitcairn		
+173	Poland		
+174	Portugal		
+177	Puerto Rico		
+179	Qatar		
+182	Réunion		
+183	Romania		
+185	Russian Federation	1992	
+184	Rwanda		
+187	Saint Helena		
+188	Saint Kitts and Nevis		
+189	Saint Lucia		
+190	Saint Pierre and Miquelon		
+191	Saint Vincent and Grenadines		
+244	Samoa		
+192	San Marino		
+193	Sao Tome and Principe		
+194	Saudi Arabia		
+195	Senegal		
+272	Serbia	2006	
+186	Serbia and Montenegro	1992	2005
+196	Seychelles		
+197	Sierra Leone		
+200	Singapore		
+199	Slovakia	1993	
+198	Slovenia	1992	
+25	Solomon Islands		
+201	Somalia		
+202	South Africa		
+203	Spain		
+38	Sri Lanka		
+206	Sudan		
+207	Suriname		
+260	Svalbard Is		
+209	Swaziland		
+210	Sweden		
+211	Switzerland		
+212	Syrian Arab Republic		
+208	Tajikistan	1992	
+215	Tanzania, United Republic of 		
+216	Thailand		
+154	The former Yugoslav Republic of Macedonia	1992	
+176	Timor-Leste		
+217	Togo		
+218	Tokelau		
+219	Tonga		
+220	Trinidad and Tobago		
+222	Tunisia		
+223	Turkey		
+213	Turkmenistan	1992	
+224	Turks and Caicos Islands		
+227	Tuvalu		
+226	Uganda		
+230	Ukraine	1992	
+225	United Arab Emirates		
+229	United Kingdom		
+231	United States of America		
+234	Uruguay		
+240	US Virgin Islands		
+228	USSR		1991
+235	Uzbekistan	1992	
+155	Vanuatu		
+236	Venezuela, Bolivarian Republic of		
+237	Viet Nam		
+243	Wallis and Futuna Islands		
+245	West Bank		1995
+205	Western Sahara		
+249	Yemen		
+248	Yugoslav SFR		1991
+251	Zambia		
+181	Zimbabwe		
+5817	Net Food Importing Developing Countries >		
+5815	Low Income Food Deficit Countries >		
+5706	European Union >		
+5801	Least Developed Countries >		
+5802	LandLocked developing countries >		
+5803	Small Island Developing States >		
+5001	World >		
+5100	Africa >		
+5101	--Eastern Africa >		
+5102	--Middle Africa >		
+5103	--Northern Africa >		
+5104	--Southern Africa >		
+5105	--Western Africa >		
+5200	Americas >		
+5203	--Northern America >		
+5204	--Central America >		
+5206	--Caribbean >		
+5207	--South America >		
+5310	Asia >		
+5301	--Central Asia >		
+5315	--Eastern Asia >		
+5303	--Southern Asia >		
+5304	--South-Eastern Asia >		
+5305	--Western Asia >		
+5400	Europe >		
+5401	--Eastern Europe >		
+5402	--Northern Europe >		
+5403	--Southern Europe >		
+5404	--Western Europe >		
+5500	Oceania >		
+5501	--Australia and New Zealand >		
+5502	--Melanesia >		
+5503	--Micronesia >		
+5504	--Polynesia >		
+
+5817	NET FOOD IMPORTING DEVELOPING COUNTRIES 	START YEAR	END YEAR
+2	Afghanistan		
+7	Angola		
+16	Bangladesh		
+14	Barbados		
+53	Benin		
+18	Bhutan		
+20	Botswana		
+233	Burkina Faso		
+29	Burundi		
+115	Cambodia		
+37	Central African Republic		
+39	Chad		
+45	Comoros		
+250	Congo, Democratic Republic of 		
+107	Côte d'Ivoire		
+49	Cuba		
+72	Djibouti		
+55	Dominica		
+56	Dominican Republic		
+59	Egypt		
+61	Equatorial Guinea		
+178	Eritrea	1993	
+238	Ethiopia	1993	
+62	Ethiopia PDR		1992
+74	Gabon		
+75	Gambia		
+90	Guinea		
+175	Guinea-Bissau		
+93	Haiti		
+95	Honduras		
+109	Jamaica		
+112	Jordan		
+114	Kenya		
+83	Kiribati		
+120	Lao People's Democratic Republic		
+122	Lesotho		
+123	Liberia		
+129	Madagascar		
+130	Malawi		
+132	Maldives		
+133	Mali		
+136	Mauritania		
+137	Mauritius		
+141	Mongolia		
+143	Morocco		
+144	Mozambique		
+28	Myanmar		
+147	Namibia		
+149	Nepal		
+158	Niger		
+165	Pakistan		
+170	Peru		
+184	Rwanda		
+188	Saint Kitts and Nevis		
+189	Saint Lucia		
+191	Saint Vincent and Grenadines		
+244	Samoa		
+193	Sao Tome and Principe		
+195	Senegal		
+197	Sierra Leone		
+25	Solomon Islands		
+201	Somalia		
+38	Sri Lanka		
+206	Sudan		
+215	Tanzania, United Republic of 		
+176	Timor-Leste		
+217	Togo		
+220	Trinidad and Tobago		
+222	Tunisia		
+227	Tuvalu		
+226	Uganda		
+155	Vanuatu		
+236	Venezuela, Bolivarian Republic of		
+249	Yemen		
+251	Zambia
+
+5815	LOW INCOME FOOD DEFICIT COUNTRIES 	START YEAR	END YEAR
+2	Afghanistan		
+3	Albania		
+7	Angola		
+1	Armenia	1992	
+52	Azerbaijan	1992	
+16	Bangladesh		
+57	Belarus	1992	
+53	Benin		
+18	Bhutan		
+80	Bosnia and Herzegovina	1992	
+233	Burkina Faso		
+29	Burundi		
+115	Cambodia		
+32	Cameroon		
+35	Cape Verde		
+37	Central African Republic		
+39	Chad		
+45	Comoros		
+46	Congo		
+250	Congo, Democratic Republic of 		
+107	Côte d'Ivoire		
+72	Djibouti		
+59	Egypt		
+61	Equatorial Guinea		
+178	Eritrea	1993	
+238	Ethiopia	1993	
+62	Ethiopia PDR		1992
+75	Gambia		
+73	Georgia	1992	
+81	Ghana		
+90	Guinea		
+175	Guinea-Bissau		
+93	Haiti		
+95	Honduras		
+100	India		
+101	Indonesia		
+103	Iraq		
+114	Kenya		
+83	Kiribati		
+116	Korea, Democratic People's Republic of 		
+113	Kyrgyzstan	1992	
+120	Lao People's Democratic Republic		
+122	Lesotho		
+123	Liberia		
+129	Madagascar		
+130	Malawi		
+133	Mali		
+136	Mauritania		
+146	Moldova	1992	
+141	Mongolia		
+143	Morocco		
+144	Mozambique		
+149	Nepal		
+157	Nicaragua		
+158	Niger		
+159	Nigeria		
+165	Pakistan		
+168	Papua New Guinea		
+171	Philippines		
+184	Rwanda		
+193	Sao Tome and Principe		
+195	Senegal		
+197	Sierra Leone		
+25	Solomon Islands		
+201	Somalia		
+38	Sri Lanka		
+206	Sudan		
+209	Swaziland		
+212	Syrian Arab Republic		
+208	Tajikistan	1992	
+215	Tanzania, United Republic of 		
+176	Timor-Leste		
+217	Togo		
+219	Tonga		
+213	Turkmenistan	1992	
+227	Tuvalu		
+226	Uganda		
+235	Uzbekistan	1992	
+155	Vanuatu		
+249	Yemen		
+251	Zambia		
+181	Zimbabwe
+
+5706	EUROPEAN UNION 	START YEAR	END YEAR
+11	Austria		
+255	Belgium	2000	
+15	Belgium-Luxembourg		1999
+27	Bulgaria		
+50	Cyprus		
+167	Czech Republic	1993	
+54	Denmark		
+63	Estonia	1992	
+67	Finland		
+68	France		
+79	Germany		
+84	Greece		
+97	Hungary		
+104	Ireland		
+106	Italy		
+119	Latvia	1992	
+126	Lithuania	1992	
+256	Luxembourg	2000	
+134	Malta		
+150	Netherlands		
+173	Poland		
+174	Portugal		
+183	Romania		
+199	Slovakia	1993	
+198	Slovenia	1992	
+203	Spain		
+210	Sweden		
+229	United Kingdom		
+
+5801	LEAST DEVELOPED COUNTRIES 	START YEAR	END YEAR
+2	Afghanistan		
+7	Angola		
+16	Bangladesh		
+53	Benin		
+18	Bhutan		
+233	Burkina Faso		
+29	Burundi		
+115	Cambodia		
+37	Central African Republic		
+39	Chad		
+45	Comoros		
+250	Congo, Democratic Republic of 		
+72	Djibouti		
+61	Equatorial Guinea		
+178	Eritrea	1993	
+238	Ethiopia	1993	
+62	Ethiopia PDR		1992
+75	Gambia		
+90	Guinea		
+175	Guinea-Bissau		
+93	Haiti		
+83	Kiribati		
+120	Lao People's Democratic Republic		
+122	Lesotho		
+123	Liberia		
+129	Madagascar		
+130	Malawi		
+132	Maldives		
+133	Mali		
+136	Mauritania		
+144	Mozambique		
+28	Myanmar		
+149	Nepal		
+158	Niger		
+184	Rwanda		
+244	Samoa		
+193	Sao Tome and Principe		
+195	Senegal		
+197	Sierra Leone		
+25	Solomon Islands		
+201	Somalia		
+206	Sudan		
+215	Tanzania, United Republic of 		
+176	Timor-Leste		
+217	Togo		
+227	Tuvalu		
+226	Uganda		
+155	Vanuatu		
+249	Yemen		
+251	Zambia		
+

@@ -1,0 +1,10 @@
+
+http://faostat.fao.org/site/526/default.aspx
+
+Because of the strange encoding of the files downloaded from the
+FAOStat ProdStat database, I used open office to convert them to MS
+Office format, and then saved them back into CSV format (tab separated
+and string quoted).
+
+
+

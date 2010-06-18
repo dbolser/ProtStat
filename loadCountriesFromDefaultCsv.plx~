@@ -1,0 +1,48 @@
+#!/usr/bin/perl -w
+
+use Data::Dumper;
+
+use MediaWiki::API;
+
+use strict;
+
+my @rowHeaders;
+my %countriesSeen;
+
+while(<>){
+  chomp;
+  
+  my @row = split/\t/;
+  
+  print scalar(@row), "\n";
+  
+  unless (@rowHeaders){
+    @rowHeaders = @row;
+    next;
+  }
+  
+  my %row;
+  
+  for(my $i=0; $i<@row; $i++){
+    
+    print "-", $rowHeaders[$i], "-", $row[$i], "-\n";
+    
+    if($rowHeaders[$i] eq ''){
+      warn "adding header\n";
+    #  $rowHeaders[$i] = $rowHeaders[$i-1]. " data flag";
+    }
+    #if($row{$rowHeaders[$i]}){
+    #  die "fechks\n";
+    #}
+    
+    $row{$rowHeaders[$i]} = $row[$i];
+  }
+  #print Dumper(%row), "\n";
+  exit;
+  
+  unless ($countriesSeen{$row{'countries'}}){
+    ## Add the country
+  }
+}
+
+warn "OK\n";
